@@ -1,4 +1,4 @@
-# Descriptive-Analysis-of-COVID-19-28-of-Nov-2020-Cases
+# Descriptive Analysis of COVID 19-28--Nov-2020 Cases
 
 - Visualized descriptive analysis of COVID-19 across the world on 28-11-2020
 - Downloaded the data from https://www.worldometers.info/coronavirus/ & cleaned the data using Power IB Query.
